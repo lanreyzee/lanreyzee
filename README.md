@@ -2,6 +2,7 @@
 - 👀 I’m interested in remote jobs
 - 🌱 I’ve been a Fullstack web developer since 2017.
 - 💞️ I’m interested in Frontend roles, backend roles or fullstack roles.
+- Mind you, I have private repositories.
 - 📫 How to reach me lanrebob1@gmail.com
 
 <!---
