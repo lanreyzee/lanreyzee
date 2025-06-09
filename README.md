@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lanreyzee
-- 👀 I’m interested in remote gigs
-- 🌱 I’m currently learning Web3.0 Blockchain Development
-- 💞️ I’m looking to collaborate on any Web 3.0 Projects
+- 👀 I’m interested in remote jobs
+- 🌱 I’ve been a Fullstack web developer since 2017.
+- 💞️ I’m Frontend roles, backend roles as well as fullstack roles.
 - 📫 How to reach me lanrebob1@gmail.com
 
 <!---
