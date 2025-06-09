@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lanreyzee
 - 👀 I’m interested in remote jobs
 - 🌱 I’ve been a Fullstack web developer since 2017.
-- 💞️ I’m Frontend roles, backend roles as well as fullstack roles.
+- 💞️ I’m interested in Frontend roles, backend roles or fullstack roles.
 - 📫 How to reach me lanrebob1@gmail.com
 
 <!---
